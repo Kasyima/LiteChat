@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422837520821",
+    "project_id": "litechatti",
+    "storage_bucket": "litechatti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422837520821:android:513924880c6ee8caaef1fc",
+        "android_client_info": {
+          "package_name": "com.litechattie.LiteChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422837520821-v5d7gdco4qijcaochg1v6t7s5vtpjrav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8qcYLJ6bvEqYQtWDRU0A1fOW5aVMJb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422837520821-v5d7gdco4qijcaochg1v6t7s5vtpjrav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
